@@ -38,7 +38,7 @@ This is the personal portfolio website of **V N Bharath**, built to showcase pro
 
 **V N Bharath**  
 📧 Email: vnbharath931@gmail.com  
-🔗 LinkedIn: [[https://www.linkedin.com/in/YOUR_USERNAME/](https://www.linkedin.com/in/YOUR_USERNAME/) ](https://www.linkedin.com/in/bharath-veerapunagalingam-29435b24a/) 
+🔗 LinkedIn: https://www.linkedin.com/in/bharath-veerapunagalingam-29435b24a/
 💼 GitHub: [https://github.com/bharath-v-n-13](https://github.com/bharath-v-n-13)
 
 ---
