@@ -3,7 +3,8 @@
 <table>
 <tr>
 <td width="45%">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca14f416935fb1b5f4cfe2a5ba.gif" alt="programmer animation" width="100%"/>
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/fc7271f2e254bbfac1cbe81eb9fbb3a3.gif" alt="dark coding dev" width="100%"/>
+
 
 
 
@@ -121,6 +122,7 @@ This is the personal portfolio website of **V N Bharath**, built to showcase pro
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
