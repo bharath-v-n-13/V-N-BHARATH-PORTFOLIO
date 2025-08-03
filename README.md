@@ -4,7 +4,8 @@
 <tr>
 <td width="45%">
   
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer coding" width="100%"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="minimal cute coder" width="100%"/>
+
 
 </td>
 <td width="55%">
@@ -120,6 +121,7 @@ This is the personal portfolio website of **V N Bharath**, built to showcase pro
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
