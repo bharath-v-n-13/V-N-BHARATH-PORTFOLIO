@@ -8,7 +8,7 @@
 ### 📊 My Current Stats
 
 - 🟢 Easy, 🟠 Medium, 🔴 Hard problems
-- Heatmap below shows my practice over the past 52 weeks
+- Heatmap below shows my practice over the past 3 weeks
 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/BHARATH_V_N?theme=dark&ext=heatmap)
 
@@ -65,5 +65,6 @@ This is the personal portfolio website of **V N Bharath**, built to showcase pro
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
