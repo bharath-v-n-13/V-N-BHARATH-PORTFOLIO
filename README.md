@@ -2,13 +2,6 @@
 
 <table>
 <tr>
-<td width="45%">
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/fc7271f2e254bbfac1cbe81eb9fbb3a3.gif" alt="dark coding dev" width="100%"/>
-
-
-
-
-</td>
 <td width="55%">
 
 <h1>Hi 👋, I'm Bharath Veerapunagalingam</h1>
@@ -22,6 +15,14 @@
 
 - 📫 Reach me at: **vnbharath931@gmail.com**
 
+- 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/bharath-veerapunagalingam-29435b24a/)
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="minimal cute coder" width="100%"/>
+
 </td>
 </tr>
 </table>
@@ -32,7 +33,7 @@
 
 ## 🧠 LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/BHARATH_V_N?theme=dark&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/BHARATH_V_N?theme=dark&ext=contest)  
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/BHARATH_V_N?theme=dark&ext=heatmap)
 
 ---
@@ -72,6 +73,9 @@
 </p>
 
 ---
+
+> ⚡ Keep watching this space. I'm building something amazing, one line of code at a time.
+
 
 > ⚡ Keep watching this space. I'm building something amazing, one line of code at a time.
 
@@ -122,6 +126,7 @@ This is the personal portfolio website of **V N Bharath**, built to showcase pro
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
