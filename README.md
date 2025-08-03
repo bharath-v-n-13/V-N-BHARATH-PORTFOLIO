@@ -1,28 +1,22 @@
 # 🌐 V N BHARATH - Portfolio Website
 ## 🧠 LeetCode Progress Tracker
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/skshivamkaushik16?ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/BHARATH_V_N?theme=dark&ext=contest)
 
-> 📈 Solving daily, growing steadily.
+> 📈 Solving daily and tracking my growth on LeetCode.
 
-### 📊 Current Stats
+### 📊 My Current Stats
 
-- 🟢 Easy: **144 / 888**
-- 🟠 Medium: **276 / 1893**
-- 🔴 Hard: **47 / 859**
-- 🧩 Total Solved: **467**
+- 🟢 Easy, 🟠 Medium, 🔴 Hard problems
+- Heatmap below shows my practice over the past 52 weeks
 
-### 🔥 1-Year Streak Overview
-
-Here's my consistency heatmap over the last 52 weeks:
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/skshivamkaushik16?theme=dark&ext=heatmap)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/BHARATH_V_N?theme=dark&ext=heatmap)
 
 ---
 
 ⏳ *Last updated: August 3, 2025*
 
-> 🚀 Feel free to follow my journey or connect with me on [LinkedIn](https://www.linkedin.com/in/skshivamkaushik16) or check out my [GitHub](https://github.com/skshivamkaushik16) for more coding projects!
+Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/bharath-veerapunagalingam-29435b24a/) | [GitHub](https://github.com/bharath-v-n-13)
 
 
 This is the personal portfolio website of **V N Bharath**, built to showcase projects, skills, and experience. It serves as a digital resume and an interactive space for recruiters, collaborators, and peers to learn more about me.
@@ -71,4 +65,5 @@ This is the personal portfolio website of **V N Bharath**, built to showcase pro
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
